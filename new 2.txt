@@ -1,0 +1,23 @@
+friend end - seeing the name and profile ect (interface)
+back end -to get the data connection from front end to back end 
+data base comes from servers -back end -front end 
+front end -html and css - 
+java (software development)- internals 
+android app creation uses java
+frame works - reactjs ,floter (dot) ,alamgular,boostapp
+back end - python,notejs(done by c++),java ect
+data base -sql ,mogodi 
+andrond app - java, kotlin, reactnative
+stact overflow - (is ued to know answers )
+r language - is fully stactital
+blockchain 
+uninity ,maya for gaming 
+php is used for backend)
+uius - user ineterface
+
+maths 
+proberlity
+statics
+linear algebra
+calculs
+electron uses java wondows,imac
